@@ -5,3 +5,6 @@ myvenv
 db.sqlite3
 /static
 .DS_Store
+.idea
+.idea/dataSources/cfe9ae95-1040-4997-9250-ee8ca557b32c/_src_/
+.idea/dataSources/cfe9ae95-1040-4997-9250-ee8ca557b32c/_staging_/
